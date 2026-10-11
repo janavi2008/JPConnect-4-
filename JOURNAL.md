@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 11.47h | 5 |
+| Week 1 | Tier 1 | 11.97h | 5 |
 
 ## Contents
 
@@ -63,9 +63,12 @@ I realised i hadnt really added any design rules, so i set minimum clearances an
 
 ### 2026-10-11 – I added some finishing touches to the pcb, drawing a grid around the leds, and adding some text. i also cleaned up the traces as much as i could, and triple checked the pcb as well as the schematic, a
 
-**1h**
+**1.5h**
 
-I added some finishing touches to the pcb, drawing a grid around the leds, and adding some text. i also cleaned up the traces as much as i could, and triple checked the pcb as well as the schematic, and corrected a few wrong connections. i wrote the first version of the firmware (i logged the time for coding separately via hacktime, just wanted to mention it) and its probably not the most efficient code but it was the best i could do. here's my final pcb!
+I added some finishing touches to the pcb, drawing a grid around the leds, and adding some text. i also cleaned up the traces as much as i could, and triple checked the pcb as well as the schematic, and corrected a few wrong connections.
+i added all the parts to cart on robu, but i found that my led driver chips (MAX7219) were out of stock. so i had to find a replacement at the last minute, with as few changes as possible. thankfully the MAX7221 was available, and it is pretty much interchangable with the 7219.
+i wrote the first version of the firmware (i logged the time for coding separately via hacktime, just wanted to mention it) and its probably not the most efficient code but it was the best i could do.
+here's my final pcb!
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/BtrHULQ2JY2ZY5iQTMNeZPloodOncI0v/a65ee3aba48e654a50b7cf54237e8acf6f0b288572bec158b9f22ec9a9a212b7.png)
 
