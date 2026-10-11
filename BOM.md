@@ -15,7 +15,7 @@
 | [PCB manufacture](https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006) | main board | 5 | $1.88 | $9.40 | [JLCPCB](https://cart.jlcpcb.com/quote?spm=jlcpcb.Public.2006) |
 | [LEDs, resistors, capacitors, switches and a buzzer](https://robu.in/) | passive components | 1 | $4.18 | $4.18 | [Robu](https://robu.in/) |
 | **Parts subtotal** | — | — | — | **$13.58** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$13.58** | — |
+| **Tax & shipping** | — | — | — | **$2.50** | — |
+| **Total** | — | — | — | **$16.08** | — |
 
-$16.42 left of the tier's funding.
+$13.92 left of the tier's funding.
