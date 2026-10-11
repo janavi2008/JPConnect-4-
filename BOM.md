@@ -16,7 +16,7 @@
 | [LEDs, resistors, capacitors, switches and a buzzer](https://robu.in/) | passive components | 1 | $4.18 | $4.18 | [Robu](https://robu.in/) |
 | [MAX7221](https://robu.in/product/max7221-ic-smd-package-8-digit-led-display-driver-ic/) | LED driver for the matrix | 2 | $1.60 | $3.20 | [Robu](https://robu.in/product/max7221-ic-smd-package-8-digit-led-display-driver-ic/) |
 | **Parts subtotal** | — | — | — | **$16.78** | — |
-| **Tax & shipping** | — | — | — | **$2.50** | — |
-| **Total** | — | — | — | **$19.28** | — |
+| **Tax & shipping** | — | — | — | **$10.25** | — |
+| **Total** | — | — | — | **$27.03** | — |
 
-$10.72 left of the tier's funding.
+$2.97 left of the tier's funding.
