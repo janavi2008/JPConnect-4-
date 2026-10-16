@@ -16,7 +16,7 @@ im currently planning on using usb as the primary power source, but since the go
 <img width="271" height="406" alt="image" src="https://github.com/user-attachments/assets/d4e42ad3-9957-4b6d-8730-0dc2ac7f27b4" />
 
 # GamePlay
-its played like a regular connect 4 game, the actual game is a 6x7 grid and there is one row for the "cursor", which blinks over the selected column. there are three push buttons on each side of the grid, one set for each player (left, right, and confirm). the entire game display flips to face the player whose turn it is.
+its played like a regular connect 4 game, the actual game is a 6x7 grid and there is one row for the "cursor", which blinks over the selected column. there are three push buttons on each side of the grid, one set for each player (left, right, and confirm). the entire game display flips to face the player whose turn it is, so its easy to understand. winning is auto detected, as well as draw/filled board, and the game resets.
 
 # Bill of Materials
 -  PCB  x1
