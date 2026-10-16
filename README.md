@@ -16,4 +16,20 @@ im currently planning on using usb as the primary power source, but since the go
 <img width="271" height="406" alt="image" src="https://github.com/user-attachments/assets/d4e42ad3-9957-4b6d-8730-0dc2ac7f27b4" />
 
 # GamePlay
-its played like a regular connect 4 game, the actual game is a 6x7 grid and there is one row for the "cursor", which blinks over the selected column. there are three push buttons on each side of the grid, one set for each player (left, right, and confirm). the entire game display flips to face the player whose turn it is. 
+its played like a regular connect 4 game, the actual game is a 6x7 grid and there is one row for the "cursor", which blinks over the selected column. there are three push buttons on each side of the grid, one set for each player (left, right, and confirm). the entire game display flips to face the player whose turn it is.
+
+# Bill of Materials
+-  PCB  x1
+-  Arduino Nano  x1
+-  MAX7219 IC chip (or MAX7221)  x2
+-  female header pins  x30
+-  1206 smd LED (red)  x50
+-  1206 smd LED (yellow)  x50
+-  0805 smd 1k resistor  x2
+-  0805 smd 20k resistor  x2
+-  0805 smd 10uF capacitor  x2
+-  0805 smd 100nF capacitor  x2
+-  12mm through hole push button  x6
+-  8x10 smd 470uF electrolytic capacitor  x1
+-  12x9.5mm active buzzer  x1
+
