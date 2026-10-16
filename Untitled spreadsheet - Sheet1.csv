@@ -1,0 +1,14 @@
+Part,Quantity,Supplier
+PCB,1,JLCPCB
+Arduino Nano,1,Robu.in
+MAX7219 IC chip (or MAX7221),2,Robu.in
+female header pins,30,Robu.in
+1206 smd LED (red),50,Robu.in
+1206 smd LED (yellow),50,Robu.in
+0805 smd 1k resistor,2,Robu.in
+0805 smd 20k resistor,2,Robu.in
+0805 smd 10uF capacitor,2,Robu.in
+0805 smd 100nF capacitor,2,Robu.in
+12mm through hole push button,6,Robu.in
+8x10 smd 470uF electrolytic capacitor,1,Robu.in
+12x9.5mm active buzzer,1,Robu.in
