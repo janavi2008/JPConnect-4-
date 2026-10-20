@@ -19,17 +19,21 @@ im currently planning on using usb as the primary power source, but since the go
 its played like a regular connect 4 game, the actual game is a 6x7 grid and there is one row for the "cursor", which blinks over the selected column. there are three push buttons on each side of the grid, one set for each player (left, right, and confirm). the entire game display flips to face the player whose turn it is, so its easy to understand. winning is auto detected, as well as draw/filled board, and the game resets.
 
 # Bill of Materials
--  PCB  x1
--  Arduino Nano  x1
--  MAX7219 IC chip (or MAX7221)  x2
--  female header pins  x30
--  1206 smd LED (red)  x50
--  1206 smd LED (yellow)  x50
--  0805 smd 1k resistor  x2
--  0805 smd 20k resistor  x2
--  0805 smd 10uF capacitor  x2
--  0805 smd 100nF capacitor  x2
--  12mm through hole push button  x6
--  8x10 smd 470uF electrolytic capacitor  x1
--  12x9.5mm active buzzer  x1
+
+  Part                                  | Quantity | Supplier | Price |
+|---------------------------------------|----------|----------|-------|
+| PCB                                   | 1        | JLCPCB   | $9.20 |
+| Arduino Nano                          | 1        | Robu.in  | $2.50 |
+| MAX7219 IC chip (or MAX7221)          | 2        | Robu.in  | $1    |
+| female header pins                    | 30       | Robu.in  | $0.5  |
+| 1206 smd LED (red)                    | 50       | Robu.in  | $0.5  |
+| 1206 smd LED (yellow)                 | 50       | Robu.in  | $0.5  |
+| 0805 smd 1k resistor                  | 2        | Robu.in  | $0.01 |
+| 0805 smd 20k resistor                 | 2        | Robu.in  | $0.01 |
+| 0805 smd 10uF capacitor               | 2        | Robu.in  | $0.01 |
+| 0805 smd 100nF capacitor              | 2        | Robu.in  | $0.01 |
+| 12mm through hole push button         | 6        | Robu.in  | $0.8  |
+| 8x10 smd 470uF electrolytic capacitor | 1        | Robu.in  | $0.5  |
+| 12x9.5mm active buzzer                | 1        | Robu.in  | $0.4  |
+
 
