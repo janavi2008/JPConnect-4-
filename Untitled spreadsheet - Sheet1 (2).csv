@@ -1,0 +1,14 @@
+Part,Quantity,Supplier,Price
+PCB,1,JLCPCB,$9.20
+Arduino Nano,1,Robu.in,$2.50
+MAX7219 IC chip (or MAX7221),2,Robu.in,$1
+female header pins,30,Robu.in,$0.5
+1206 smd LED (red),50,Robu.in,$0.5
+1206 smd LED (yellow),50,Robu.in,$0.5
+0805 smd 1k resistor,2,Robu.in,$0.01
+0805 smd 20k resistor,2,Robu.in,$0.01
+0805 smd 10uF capacitor,2,Robu.in,$0.01
+0805 smd 100nF capacitor,2,Robu.in,$0.01
+12mm through hole push button,6,Robu.in,$0.8
+8x10 smd 470uF electrolytic capacitor,1,Robu.in,$0.5
+12x9.5mm active buzzer,1,Robu.in,$0.4
