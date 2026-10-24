@@ -37,9 +37,9 @@ Completed the schematic design in kicad
 Started routing the pcb for the connect 4 game today. i decided to switch to using smd components as it looks cleaner. im done with around 2/3 of the routing, but the next stretch is gonna be tight, so thats fun.
 my progress:
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/BtrHULQ2JY2ZY5iQTMNeZPloodOncI0v/175f86029561433628fcc3d097cb554459588b38c738737dcf04e7eac22e2bba.png)
+![image](https://halflife.hackclub-assets.com/sessions/BtrHULQ2JY2ZY5iQTMNeZPloodOncI0v/175f86029561433628fcc3d097cb554459588b38c738737dcf04e7eac22e2bba.png)
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/BtrHULQ2JY2ZY5iQTMNeZPloodOncI0v/9ca19585e1f599ddbdda347be17caa10ee34988403deb50da1c2f5cb025a4fc8.png)
+![image](https://halflife.hackclub-assets.com/sessions/BtrHULQ2JY2ZY5iQTMNeZPloodOncI0v/9ca19585e1f599ddbdda347be17caa10ee34988403deb50da1c2f5cb025a4fc8.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/87cf1816-e4ea-486f-986c-96456da35549/video.mp4)
 
@@ -49,7 +49,7 @@ my progress:
 
 Finished routing the pcb, and it was just as painful as i expected. its a huge mess, but drc came back clean, so hopefully we're good to go! i made a small logo in the corner too. i also spent an hour researching and figuring out how to code the firmware, reading the datasheet for the MAX7219, and going through its code library - i dont have much experience coding, so the more info i get, the better.
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/BtrHULQ2JY2ZY5iQTMNeZPloodOncI0v/1fd4ef190f5bcac207a947f36bb65d971c56a90873c355e9ab29225b8f139b46.png)
+![image](https://halflife.hackclub-assets.com/sessions/BtrHULQ2JY2ZY5iQTMNeZPloodOncI0v/1fd4ef190f5bcac207a947f36bb65d971c56a90873c355e9ab29225b8f139b46.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/82983018-d48d-4568-bb3a-cd816c222c67/video.mp4)
 
@@ -70,6 +70,6 @@ i added all the parts to cart on robu, but i found that my led driver chips (MAX
 i wrote the first version of the firmware (i logged the time for coding separately via hacktime, just wanted to mention it) and its probably not the most efficient code but it was the best i could do.
 here's my final pcb!
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/BtrHULQ2JY2ZY5iQTMNeZPloodOncI0v/a65ee3aba48e654a50b7cf54237e8acf6f0b288572bec158b9f22ec9a9a212b7.png)
+![image](https://halflife.hackclub-assets.com/sessions/BtrHULQ2JY2ZY5iQTMNeZPloodOncI0v/a65ee3aba48e654a50b7cf54237e8acf6f0b288572bec158b9f22ec9a9a212b7.png)
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/BtrHULQ2JY2ZY5iQTMNeZPloodOncI0v/4aa362a1d003e20153af6b1a070e8ca882f49480508a8d7eba6405cef0d1f144.png)
+![image](https://halflife.hackclub-assets.com/sessions/BtrHULQ2JY2ZY5iQTMNeZPloodOncI0v/4aa362a1d003e20153af6b1a070e8ca882f49480508a8d7eba6405cef0d1f144.png)
